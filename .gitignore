@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/HWork/.vs/HWork
+/HWork/HWork/bin/Debug/net5.0
+/HWork/HWork/obj
+/HWork/HWork.Tests/bin/Debug/net5.0
+/HWork/HWork.Tests/obj
